@@ -29,7 +29,7 @@ header {
   list-style: none;
   width: 100%;
 }
-
+ 
 .first-section {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
