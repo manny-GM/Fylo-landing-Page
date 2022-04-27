@@ -61,4 +61,4 @@ Moving forward, i would pick projects that would be really challenging to my und
 - Twitter - [@IheanachoManuel](https://www.twitter.com/iheanachoManuel)
 
 ## Acknowledgments
-I would like to give hearty regards to my friend fellow front end developer anazodo michael [@Michaelanazodo on twitter] for his tips during the execution of this project.  
+I would like to give hearty regards to my friend fellow front end developer anazodo michael [@Michaelanazodo on twitter] for his tips during the execution of this project. 
